@@ -5,7 +5,7 @@
     "node_modules/**/node_modules",
     "logs/",
     "views/",
-    "idea/",
+    ".idea/",
     ".DS_store",
     "*.map",
     "*-compiled.js"
